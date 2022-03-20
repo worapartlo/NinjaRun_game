@@ -1,0 +1,30 @@
+﻿{
+	"version": 1647796710,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/sprite-sheet2.png",
+		"images/sprite-sheet3.png",
+		"images/tiledbackground2.png",
+		"images/tap.png",
+		"images/wall-sheet0.png",
+		"images/enemie-sheet0.png",
+		"images/enemie2-sheet0.png",
+		"images/block.png",
+		"media/melodyloops-the-first-light.m4a",
+		"media/melodyloops-the-first-light.ogg",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
